@@ -1,0 +1,4 @@
+ord1=input('Mata in första ordet')
+ord2=input('Mata in andra ordet')
+ord3=ord2 + ord1
+print(ord3)
